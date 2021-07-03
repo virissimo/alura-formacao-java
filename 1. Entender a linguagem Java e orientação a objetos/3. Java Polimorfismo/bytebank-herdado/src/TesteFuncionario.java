@@ -6,5 +6,4 @@ public class TesteFuncionario {
 		
 		System.out.println(f.getNome());
 	}
-
 }
