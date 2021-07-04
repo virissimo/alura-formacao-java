@@ -10,8 +10,8 @@ public class Funcionario {
 		this.salario = salario;
 	}
 
-	public double getBonificado() {
-		return salario * 0.1;
+	public double getBonificacao() {
+		return salario * 0.05;
 	}
 	
 	public String getNome() {
